@@ -11,8 +11,5 @@ public class RunningLocationServiceApplication {
         UnitInfo unitInfo = new UnitInfo();
         unitInfo.setBandMake("FitBit");
         SpringApplication.run(RunningLocationServiceApplication.class, args);
-
-
-
     }
 }
